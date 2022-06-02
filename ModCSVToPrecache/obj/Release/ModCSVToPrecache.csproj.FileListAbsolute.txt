@@ -1,0 +1,8 @@
+C:\Users\pauls\source\repos\ModCSVToPrecache\ModCSVToPrecache\bin\Release\ModCSVToPrecache.exe.config
+C:\Users\pauls\source\repos\ModCSVToPrecache\ModCSVToPrecache\bin\Release\ModCSVToPrecache.exe
+C:\Users\pauls\source\repos\ModCSVToPrecache\ModCSVToPrecache\bin\Release\ModCSVToPrecache.pdb
+C:\Users\pauls\source\repos\ModCSVToPrecache\ModCSVToPrecache\obj\Release\ModCSVToPrecache.csproj.AssemblyReference.cache
+C:\Users\pauls\source\repos\ModCSVToPrecache\ModCSVToPrecache\obj\Release\ModCSVToPrecache.csproj.SuggestedBindingRedirects.cache
+C:\Users\pauls\source\repos\ModCSVToPrecache\ModCSVToPrecache\obj\Release\ModCSVToPrecache.csproj.CoreCompileInputs.cache
+C:\Users\pauls\source\repos\ModCSVToPrecache\ModCSVToPrecache\obj\Release\ModCSVToPrecache.exe
+C:\Users\pauls\source\repos\ModCSVToPrecache\ModCSVToPrecache\obj\Release\ModCSVToPrecache.pdb
